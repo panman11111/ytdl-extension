@@ -1,0 +1,9 @@
+{
+    "name": "com.ytdl.downloader",
+    "description": "YouTube Downloader Native Host",
+    "path": "/Users/ts/Documents/work/ytdl-extension/native_host.py",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://mkfdmpchnffnnlclembihgnfpdpkpaip/"
+    ]
+}

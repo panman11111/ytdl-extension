@@ -1,0 +1,264 @@
+Native host started
+Received request JSON: {'url': 'https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita', 'format': 'mp4', 'quality': 'best', 'cookie': '_zm_mtk_guid=9a5c77348d0b4b7bbfc38d2356b43f9d; _zm_visitor_guid=0d5f21491c55459493adc814cf0915ca; OptanonAlertBoxClosed=2025-04-25T08:06:01.193Z; _zm_login_acctype=6; _zm_lang=jp-JP; wULrMv6t=BfpbsXGWAQAAuacMLv1dsN2mJfVq6Y0acf3MLNmuuuD0KecBrEg27yA0Mt08JK5yiFLAf14I5--iwl4IJAAkEAmgFQApD78L2F1sbw|1|0|1032e82934d1a6aef64becd66236263a9d6c45db; OnetrustActiveGroups=C0003C0001; OnetrustActiveGroups=C0003C0001; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1; ktlvDW7IG5ClOcxYTbmY=a; _zm_svn=sophia-ac-jp; _zm_fingerprint=18c1710414774c7ba4ebea358982a3df; _zm_ssid=us06_c_4N1fO2haRRa81F7CoWxGTg; _zm_ctaid=eGdINFJyQyWaFeQHg-DCZw.1761991203279.0c8cd2308e3b3a22857302940e7a9564; _zm_chtaid=856; _zm_csp_script_nonce=HwzDxgE6RpCCIqtHH6KaCw; _zm_currency=JPY; _zm_page_auth=us06_c_kq_KxZHlQLi4bPkWdsnG8g; _zm_cdn_blocked=unlog_unblk; OptanonAlertBoxClosed=Sat, 01 Nov 2025 10:00:09 GMT; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1&hosts=&datestamp=Sat+Nov+01+2025+19%3A00%3A09+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=6.21.0; cred=69E4FB144480E1C123285A387A610127', 'referer': 'https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36'}
+Input URL: https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita
+Cookie: _zm_mtk_guid=9a5c77348d0b4b7bbfc38d2356b43f9d; _zm_visitor_guid=0d5f21491c55459493adc814cf0915ca; OptanonAlertBoxClosed=2025-04-25T08:06:01.193Z; _zm_login_acctype=6; _zm_lang=jp-JP; wULrMv6t=BfpbsXGWAQAAuacMLv1dsN2mJfVq6Y0acf3MLNmuuuD0KecBrEg27yA0Mt08JK5yiFLAf14I5--iwl4IJAAkEAmgFQApD78L2F1sbw|1|0|1032e82934d1a6aef64becd66236263a9d6c45db; OnetrustActiveGroups=C0003C0001; OnetrustActiveGroups=C0003C0001; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1; ktlvDW7IG5ClOcxYTbmY=a; _zm_svn=sophia-ac-jp; _zm_fingerprint=18c1710414774c7ba4ebea358982a3df; _zm_ssid=us06_c_4N1fO2haRRa81F7CoWxGTg; _zm_ctaid=eGdINFJyQyWaFeQHg-DCZw.1761991203279.0c8cd2308e3b3a22857302940e7a9564; _zm_chtaid=856; _zm_csp_script_nonce=HwzDxgE6RpCCIqtHH6KaCw; _zm_currency=JPY; _zm_page_auth=us06_c_kq_KxZHlQLi4bPkWdsnG8g; _zm_cdn_blocked=unlog_unblk; OptanonAlertBoxClosed=Sat, 01 Nov 2025 10:00:09 GMT; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1&hosts=&datestamp=Sat+Nov+01+2025+19%3A00%3A09+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=6.21.0; cred=69E4FB144480E1C123285A387A610127
+Referer: https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Added Cookie header: _zm_mtk_guid=9a5c77348d0b4b7bbfc38d2356b43f9d; _zm_visitor_guid=0d5f21491c55459493adc814cf0915ca; OptanonAlertBoxClosed=2025-04-25T08:06:01.193Z; _zm_login_acctype=6; _zm_lang=jp-JP; wULrMv6t=BfpbsXGWAQAAuacMLv1dsN2mJfVq6Y0acf3MLNmuuuD0KecBrEg27yA0Mt08JK5yiFLAf14I5--iwl4IJAAkEAmgFQApD78L2F1sbw|1|0|1032e82934d1a6aef64becd66236263a9d6c45db; OnetrustActiveGroups=C0003C0001; OnetrustActiveGroups=C0003C0001; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1; ktlvDW7IG5ClOcxYTbmY=a; _zm_svn=sophia-ac-jp; _zm_fingerprint=18c1710414774c7ba4ebea358982a3df; _zm_ssid=us06_c_4N1fO2haRRa81F7CoWxGTg; _zm_ctaid=eGdINFJyQyWaFeQHg-DCZw.1761991203279.0c8cd2308e3b3a22857302940e7a9564; _zm_chtaid=856; _zm_csp_script_nonce=HwzDxgE6RpCCIqtHH6KaCw; _zm_currency=JPY; _zm_page_auth=us06_c_kq_KxZHlQLi4bPkWdsnG8g; _zm_cdn_blocked=unlog_unblk; OptanonAlertBoxClosed=Sat, 01 Nov 2025 10:00:09 GMT; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1&hosts=&datestamp=Sat+Nov+01+2025+19%3A00%3A09+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=6.21.0; cred=69E4FB144480E1C123285A387A610127
+Added Referer header: https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita
+Added User-Agent header: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Final yt-dlp command: /opt/homebrew/bin/yt-dlp -f bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best --merge-output-format mp4 -o /Users/ts/Downloads/ytdl-extension/%(title)s.%(ext)s https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita --add-header Cookie: _zm_mtk_guid=9a5c77348d0b4b7bbfc38d2356b43f9d; _zm_visitor_guid=0d5f21491c55459493adc814cf0915ca; OptanonAlertBoxClosed=2025-04-25T08:06:01.193Z; _zm_login_acctype=6; _zm_lang=jp-JP; wULrMv6t=BfpbsXGWAQAAuacMLv1dsN2mJfVq6Y0acf3MLNmuuuD0KecBrEg27yA0Mt08JK5yiFLAf14I5--iwl4IJAAkEAmgFQApD78L2F1sbw|1|0|1032e82934d1a6aef64becd66236263a9d6c45db; OnetrustActiveGroups=C0003C0001; OnetrustActiveGroups=C0003C0001; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1; ktlvDW7IG5ClOcxYTbmY=a; _zm_svn=sophia-ac-jp; _zm_fingerprint=18c1710414774c7ba4ebea358982a3df; _zm_ssid=us06_c_4N1fO2haRRa81F7CoWxGTg; _zm_ctaid=eGdINFJyQyWaFeQHg-DCZw.1761991203279.0c8cd2308e3b3a22857302940e7a9564; _zm_chtaid=856; _zm_csp_script_nonce=HwzDxgE6RpCCIqtHH6KaCw; _zm_currency=JPY; _zm_page_auth=us06_c_kq_KxZHlQLi4bPkWdsnG8g; _zm_cdn_blocked=unlog_unblk; OptanonAlertBoxClosed=Sat, 01 Nov 2025 10:00:09 GMT; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1&hosts=&datestamp=Sat+Nov+01+2025+19%3A00%3A09+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=6.21.0; cred=69E4FB144480E1C123285A387A610127 --add-header Referer: https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita --add-header User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Return code: 0
+Stdout: [zoom] Extracting URL: https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIy...occ.nrmX_Wno0K5UYita
+[zoom] nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa: Downloading play webpage
+[zoom] nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa: Downloading play info JSON
+[info] nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa: Downloading 1 format(s): view
+[download] Destination: /Users/ts/Downloads/ytdl-extension/大規模言語モデル 2025.mp4
+
+[download]   0.0% of  218.69MiB at  Unknown B/s ETA Unknown
+[download]   0.0% of  218.69MiB at    1.56MiB/s ETA 02:21  
+[download]   0.0% of  218.69MiB at    2.82MiB/s ETA 01:17
+[download]   0.0% of  218.69MiB at    5.04MiB/s ETA 00:43
+[download]   0.0% of  218.69MiB at    8.88MiB/s ETA 00:24
+[download]   0.0% of  218.69MiB at    5.38MiB/s ETA 00:40
+[download]   0.1% of  218.69MiB at    6.00MiB/s ETA 00:36
+[download]   0.1% of  218.69MiB at    8.04MiB/s ETA 00:27
+[download]   0.2% of  218.69MiB at   12.15MiB/s ETA 00:17
+[download]   0.5% of  218.69MiB at   18.74MiB/s ETA 00:11
+[download]   0.9% of  218.69MiB at   30.38MiB/s ETA 00:07
+[download]   1.8% of  218.69MiB at   31.41MiB/s ETA 00:06
+[download]   3.7% of  218.69MiB at   44.81MiB/s ETA 00:04
+[download]   5.5% of  218.69MiB at   57.38MiB/s ETA 00:03
+[download]   7.3% of  218.69MiB at   64.24MiB/s ETA 00:03
+[download]   9.1% of  218.69MiB at   65.10MiB/s ETA 00:03
+[download]  11.0% of  218.69MiB at   68.68MiB/s ETA 00:02
+[download]  12.8% of  218.69MiB at   69.25MiB/s ETA 00:02
+[download]  14.6% of  218.69MiB at   70.86MiB/s ETA 00:02
+[download]  16.5% of  218.69MiB at   71.30MiB/s ETA 00:02
+[download]  18.3% of  218.69MiB at   72.71MiB/s ETA 00:02
+[download]  20.1% of  218.69MiB at   72.46MiB/s ETA 00:02
+[download]  21.9% of  218.69MiB at   73.75MiB/s ETA 00:02
+[download]  23.8% of  218.69MiB at   73.32MiB/s ETA 00:02
+[download]  25.6% of  218.69MiB at   74.47MiB/s ETA 00:02
+[download]  27.4% of  218.69MiB at   74.27MiB/s ETA 00:02
+[download]  29.3% of  218.69MiB at   75.23MiB/s ETA 00:02
+[download]  31.1% of  218.69MiB at   75.86MiB/s ETA 00:01
+[download]  32.9% of  218.69MiB at   76.36MiB/s ETA 00:01
+[download]  34.8% of  218.69MiB at   77.75MiB/s ETA 00:01
+[download]  36.6% of  218.69MiB at   78.23MiB/s ETA 00:01
+[download]  38.4% of  218.69MiB at   78.49MiB/s ETA 00:01
+[download]  40.2% of  218.69MiB at   80.00MiB/s ETA 00:01
+[download]  42.1% of  218.69MiB at   79.77MiB/s ETA 00:01
+[download]  43.9% of  218.69MiB at   80.49MiB/s ETA 00:01
+[download]  45.7% of  218.69MiB at   80.19MiB/s ETA 00:01
+[download]  47.6% of  218.69MiB at   81.09MiB/s ETA 00:01
+[download]  49.4% of  218.69MiB at   81.26MiB/s ETA 00:01
+[download]  51.2% of  218.69MiB at   82.23MiB/s ETA 00:01
+[download]  53.0% of  218.69MiB at   82.12MiB/s ETA 00:01
+[download]  54.9% of  218.69MiB at   83.10MiB/s ETA 00:01
+[download]  56.7% of  218.69MiB at   82.53MiB/s ETA 00:01
+[download]  58.5% of  218.69MiB at   83.67MiB/s ETA 00:01
+[download]  60.4% of  218.69MiB at   83.48MiB/s ETA 00:01
+[download]  62.2% of  218.69MiB at   83.64MiB/s ETA 00:00
+[download]  64.0% of  218.69MiB at   83.74MiB/s ETA 00:00
+[download]  65.8% of  218.69MiB at   83.86MiB/s ETA 00:00
+[download]  67.7% of  218.69MiB at   84.79MiB/s ETA 00:00
+[download]  69.5% of  218.69MiB at   85.37MiB/s ETA 00:00
+[download]  71.3% of  218.69MiB at   84.99MiB/s ETA 00:00
+[download]  73.2% of  218.69MiB at   85.43MiB/s ETA 00:00
+[download]  75.0% of  218.69MiB at   85.69MiB/s ETA 00:00
+[download]  76.8% of  218.69MiB at   85.99MiB/s ETA 00:00
+[download]  78.7% of  218.69MiB at   86.35MiB/s ETA 00:00
+[download]  80.5% of  218.69MiB at   86.28MiB/s ETA 00:00
+[download]  82.3% of  218.69MiB at   87.04MiB/s ETA 00:00
+[download]  84.1% of  218.69MiB at   86.83MiB/s ETA 00:00
+[download]  86.0% of  218.69MiB at   86.99MiB/s ETA 00:00
+[download]  87.8% of  218.69MiB at   87.26MiB/s ETA 00:00
+[download]  89.6% of  218.69MiB at   87.64MiB/s ETA 00:00
+[download]  91.5% of  218.69MiB at   87.71MiB/s ETA 00:00
+[download]  93.3% of  218.69MiB at   88.07MiB/s ETA 00:00
+[download]  95.1% of  218.69MiB at   88.36MiB/s ETA 00:00
+[download]  96.9% of  218.69MiB at   87.99MiB/s ETA 00:00
+[download]  98.8% of  218.69MiB at   88.16MiB/s ETA 00:00
+[download] 100.0% of  218.69MiB at   88.35MiB/s ETA 00:00
+[download] 100% of  218.69MiB in 00:00:02 at 80.45MiB/s  
+
+Stderr: Deprecated Feature: Passing cookies as a header is a potential security risk; they will be scoped to the domain of the downloaded urls. Please consider loading cookies from a file or browser instead.
+
+Native host started
+Received request JSON: {'url': 'https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita', 'format': 'mp4', 'quality': 'best', 'cookie': '_zm_mtk_guid=9a5c77348d0b4b7bbfc38d2356b43f9d; _zm_visitor_guid=0d5f21491c55459493adc814cf0915ca; OptanonAlertBoxClosed=2025-04-25T08:06:01.193Z; _zm_login_acctype=6; _zm_lang=jp-JP; wULrMv6t=BfpbsXGWAQAAuacMLv1dsN2mJfVq6Y0acf3MLNmuuuD0KecBrEg27yA0Mt08JK5yiFLAf14I5--iwl4IJAAkEAmgFQApD78L2F1sbw|1|0|1032e82934d1a6aef64becd66236263a9d6c45db; OnetrustActiveGroups=C0003C0001; OnetrustActiveGroups=C0003C0001; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1; ktlvDW7IG5ClOcxYTbmY=a; _zm_svn=sophia-ac-jp; _zm_fingerprint=18c1710414774c7ba4ebea358982a3df; _zm_ssid=us06_c_4N1fO2haRRa81F7CoWxGTg; _zm_ctaid=eGdINFJyQyWaFeQHg-DCZw.1761991203279.0c8cd2308e3b3a22857302940e7a9564; _zm_chtaid=856; _zm_csp_script_nonce=HwzDxgE6RpCCIqtHH6KaCw; _zm_currency=JPY; _zm_page_auth=us06_c_kq_KxZHlQLi4bPkWdsnG8g; _zm_cdn_blocked=unlog_unblk; OptanonAlertBoxClosed=Sat, 01 Nov 2025 10:00:09 GMT; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1&hosts=&datestamp=Sat+Nov+01+2025+19%3A00%3A09+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=6.21.0; cred=69E4FB144480E1C123285A387A610127', 'referer': 'https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36'}
+Input URL: https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita
+Cookie: _zm_mtk_guid=9a5c77348d0b4b7bbfc38d2356b43f9d; _zm_visitor_guid=0d5f21491c55459493adc814cf0915ca; OptanonAlertBoxClosed=2025-04-25T08:06:01.193Z; _zm_login_acctype=6; _zm_lang=jp-JP; wULrMv6t=BfpbsXGWAQAAuacMLv1dsN2mJfVq6Y0acf3MLNmuuuD0KecBrEg27yA0Mt08JK5yiFLAf14I5--iwl4IJAAkEAmgFQApD78L2F1sbw|1|0|1032e82934d1a6aef64becd66236263a9d6c45db; OnetrustActiveGroups=C0003C0001; OnetrustActiveGroups=C0003C0001; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1; ktlvDW7IG5ClOcxYTbmY=a; _zm_svn=sophia-ac-jp; _zm_fingerprint=18c1710414774c7ba4ebea358982a3df; _zm_ssid=us06_c_4N1fO2haRRa81F7CoWxGTg; _zm_ctaid=eGdINFJyQyWaFeQHg-DCZw.1761991203279.0c8cd2308e3b3a22857302940e7a9564; _zm_chtaid=856; _zm_csp_script_nonce=HwzDxgE6RpCCIqtHH6KaCw; _zm_currency=JPY; _zm_page_auth=us06_c_kq_KxZHlQLi4bPkWdsnG8g; _zm_cdn_blocked=unlog_unblk; OptanonAlertBoxClosed=Sat, 01 Nov 2025 10:00:09 GMT; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1&hosts=&datestamp=Sat+Nov+01+2025+19%3A00%3A09+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=6.21.0; cred=69E4FB144480E1C123285A387A610127
+Referer: https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Added Cookie header: _zm_mtk_guid=9a5c77348d0b4b7bbfc38d2356b43f9d; _zm_visitor_guid=0d5f21491c55459493adc814cf0915ca; OptanonAlertBoxClosed=2025-04-25T08:06:01.193Z; _zm_login_acctype=6; _zm_lang=jp-JP; wULrMv6t=BfpbsXGWAQAAuacMLv1dsN2mJfVq6Y0acf3MLNmuuuD0KecBrEg27yA0Mt08JK5yiFLAf14I5--iwl4IJAAkEAmgFQApD78L2F1sbw|1|0|1032e82934d1a6aef64becd66236263a9d6c45db; OnetrustActiveGroups=C0003C0001; OnetrustActiveGroups=C0003C0001; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1; ktlvDW7IG5ClOcxYTbmY=a; _zm_svn=sophia-ac-jp; _zm_fingerprint=18c1710414774c7ba4ebea358982a3df; _zm_ssid=us06_c_4N1fO2haRRa81F7CoWxGTg; _zm_ctaid=eGdINFJyQyWaFeQHg-DCZw.1761991203279.0c8cd2308e3b3a22857302940e7a9564; _zm_chtaid=856; _zm_csp_script_nonce=HwzDxgE6RpCCIqtHH6KaCw; _zm_currency=JPY; _zm_page_auth=us06_c_kq_KxZHlQLi4bPkWdsnG8g; _zm_cdn_blocked=unlog_unblk; OptanonAlertBoxClosed=Sat, 01 Nov 2025 10:00:09 GMT; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1&hosts=&datestamp=Sat+Nov+01+2025+19%3A00%3A09+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=6.21.0; cred=69E4FB144480E1C123285A387A610127
+Added Referer header: https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita
+Added User-Agent header: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Final yt-dlp command: /opt/homebrew/bin/yt-dlp -f bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best --merge-output-format mp4 -o /Users/ts/Downloads/ytdl-extension/%(title)s.%(ext)s https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita --add-header Cookie: _zm_mtk_guid=9a5c77348d0b4b7bbfc38d2356b43f9d; _zm_visitor_guid=0d5f21491c55459493adc814cf0915ca; OptanonAlertBoxClosed=2025-04-25T08:06:01.193Z; _zm_login_acctype=6; _zm_lang=jp-JP; wULrMv6t=BfpbsXGWAQAAuacMLv1dsN2mJfVq6Y0acf3MLNmuuuD0KecBrEg27yA0Mt08JK5yiFLAf14I5--iwl4IJAAkEAmgFQApD78L2F1sbw|1|0|1032e82934d1a6aef64becd66236263a9d6c45db; OnetrustActiveGroups=C0003C0001; OnetrustActiveGroups=C0003C0001; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1; ktlvDW7IG5ClOcxYTbmY=a; _zm_svn=sophia-ac-jp; _zm_fingerprint=18c1710414774c7ba4ebea358982a3df; _zm_ssid=us06_c_4N1fO2haRRa81F7CoWxGTg; _zm_ctaid=eGdINFJyQyWaFeQHg-DCZw.1761991203279.0c8cd2308e3b3a22857302940e7a9564; _zm_chtaid=856; _zm_csp_script_nonce=HwzDxgE6RpCCIqtHH6KaCw; _zm_currency=JPY; _zm_page_auth=us06_c_kq_KxZHlQLi4bPkWdsnG8g; _zm_cdn_blocked=unlog_unblk; OptanonAlertBoxClosed=Sat, 01 Nov 2025 10:00:09 GMT; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1&hosts=&datestamp=Sat+Nov+01+2025+19%3A00%3A09+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=6.21.0; cred=69E4FB144480E1C123285A387A610127 --add-header Referer: https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FtfJXY4OVz-KJPxjRqo2FUOtqGVQaa-jrdS_AJayI6FLekOJOqAAOy0vbSdA0rocc.nrmX_Wno0K5UYita --add-header User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Return code: 0
+Stdout: [zoom] Extracting URL: https://us06web.zoom.us/rec/play/nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIy...occ.nrmX_Wno0K5UYita
+[zoom] nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa: Downloading play webpage
+[zoom] nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa: Downloading play info JSON
+[info] nj911jQ-DtV-mBWeok49_VsWqJoazHr51LFz6n0Gd_sdmDm1mPIo42uqUTxihkIywy545jcTsefIPZwj.rm7uSJriof3wWQNa: Downloading 1 format(s): view
+[download] Destination: /Users/ts/Downloads/ytdl-extension/大規模言語モデル 2025.mp4
+
+[download]   0.0% of  218.69MiB at  563.67KiB/s ETA 06:45
+[download]   0.0% of  218.69MiB at  227.12KiB/s ETA 16:26
+[download]   0.0% of  218.69MiB at  511.24KiB/s ETA 07:18
+[download]   0.0% of  218.69MiB at    1.04MiB/s ETA 03:29
+[download]   0.0% of  218.69MiB at    2.08MiB/s ETA 01:45
+[download]   0.0% of  218.69MiB at    4.07MiB/s ETA 00:53
+[download]   0.1% of  218.69MiB at    6.10MiB/s ETA 00:35
+[download]   0.1% of  218.69MiB at    7.97MiB/s ETA 00:27
+[download]   0.2% of  218.69MiB at   11.92MiB/s ETA 00:18
+[download]   0.5% of  218.69MiB at   18.90MiB/s ETA 00:11
+[download]   0.9% of  218.69MiB at   30.88MiB/s ETA 00:07
+[download]   1.8% of  218.69MiB at   29.52MiB/s ETA 00:07
+[download]   3.7% of  218.69MiB at   50.58MiB/s ETA 00:04
+[download]   5.5% of  218.69MiB at   50.70MiB/s ETA 00:04
+[download]   7.3% of  218.69MiB at   61.10MiB/s ETA 00:03
+[download]   9.1% of  218.69MiB at   57.78MiB/s ETA 00:03
+[download]  11.0% of  218.69MiB at   58.84MiB/s ETA 00:03
+[download]  12.8% of  218.69MiB at   60.25MiB/s ETA 00:03
+[download]  14.6% of  218.69MiB at   62.93MiB/s ETA 00:02
+[download]  16.5% of  218.69MiB at   64.08MiB/s ETA 00:02
+[download]  18.3% of  218.69MiB at   64.59MiB/s ETA 00:02
+[download]  20.1% of  218.69MiB at   63.58MiB/s ETA 00:02
+[download]  21.9% of  218.69MiB at   67.63MiB/s ETA 00:02
+[download]  23.8% of  218.69MiB at   66.56MiB/s ETA 00:02
+[download]  25.6% of  218.69MiB at   65.28MiB/s ETA 00:02
+[download]  27.4% of  218.69MiB at   65.85MiB/s ETA 00:02
+[download]  29.3% of  218.69MiB at   68.03MiB/s ETA 00:02
+[download]  31.1% of  218.69MiB at   66.75MiB/s ETA 00:02
+[download]  32.9% of  218.69MiB at   69.31MiB/s ETA 00:02
+[download]  34.8% of  218.69MiB at   69.05MiB/s ETA 00:02
+[download]  36.6% of  218.69MiB at   68.26MiB/s ETA 00:02
+[download]  38.4% of  218.69MiB at   69.96MiB/s ETA 00:01
+[download]  40.2% of  218.69MiB at   69.92MiB/s ETA 00:01
+[download]  42.1% of  218.69MiB at   70.20MiB/s ETA 00:01
+[download]  43.9% of  218.69MiB at   70.64MiB/s ETA 00:01
+[download]  45.7% of  218.69MiB at   71.32MiB/s ETA 00:01
+[download]  47.6% of  218.69MiB at   72.95MiB/s ETA 00:01
+[download]  49.4% of  218.69MiB at   72.36MiB/s ETA 00:01
+[download]  51.2% of  218.69MiB at   72.91MiB/s ETA 00:01
+[download]  53.0% of  218.69MiB at   73.87MiB/s ETA 00:01
+[download]  54.9% of  218.69MiB at   74.79MiB/s ETA 00:01
+[download]  56.7% of  218.69MiB at   74.91MiB/s ETA 00:01
+[download]  58.5% of  218.69MiB at   74.93MiB/s ETA 00:01
+[download]  60.4% of  218.69MiB at   75.11MiB/s ETA 00:01
+[download]  62.2% of  218.69MiB at   76.10MiB/s ETA 00:01
+[download]  64.0% of  218.69MiB at   76.56MiB/s ETA 00:01
+[download]  65.8% of  218.69MiB at   76.83MiB/s ETA 00:00
+[download]  67.7% of  218.69MiB at   76.37MiB/s ETA 00:00
+[download]  69.5% of  218.69MiB at   76.21MiB/s ETA 00:00
+[download]  71.3% of  218.69MiB at   76.77MiB/s ETA 00:00
+[download]  73.2% of  218.69MiB at   76.74MiB/s ETA 00:00
+[download]  75.0% of  218.69MiB at   77.43MiB/s ETA 00:00
+[download]  76.8% of  218.69MiB at   78.23MiB/s ETA 00:00
+[download]  78.7% of  218.69MiB at   78.36MiB/s ETA 00:00
+[download]  80.5% of  218.69MiB at   77.72MiB/s ETA 00:00
+[download]  82.3% of  218.69MiB at   76.87MiB/s ETA 00:00
+[download]  84.1% of  218.69MiB at   76.98MiB/s ETA 00:00
+[download]  86.0% of  218.69MiB at   77.43MiB/s ETA 00:00
+[download]  87.8% of  218.69MiB at   77.19MiB/s ETA 00:00
+[download]  89.6% of  218.69MiB at   77.89MiB/s ETA 00:00
+[download]  91.5% of  218.69MiB at   77.50MiB/s ETA 00:00
+[download]  93.3% of  218.69MiB at   78.14MiB/s ETA 00:00
+[download]  95.1% of  218.69MiB at   78.11MiB/s ETA 00:00
+[download]  96.9% of  218.69MiB at   77.81MiB/s ETA 00:00
+[download]  98.8% of  218.69MiB at   78.67MiB/s ETA 00:00
+[download] 100.0% of  218.69MiB at   78.12MiB/s ETA 00:00
+[download] 100% of  218.69MiB in 00:00:03 at 71.57MiB/s  
+
+Stderr: Deprecated Feature: Passing cookies as a header is a potential security risk; they will be scoped to the domain of the downloaded urls. Please consider loading cookies from a file or browser instead.
+
+Native host started
+Received request JSON: {'url': 'https://us06web.zoom.us/rec/play/yybESl3qmoNmXYtkncTgvLtVqVjtIE-a9p4erETCjeMUtfQPwshfUGIT07o_BqlAt6lrVEYRxjxIDOX8.igswDMW0rnPpX6rP?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fzs7mM2nT77dcld00oRa8R8lt2m_wjl0BGv5vu4tKvYpr44XDLQjz2XBkMbfkcAmd.hBI4e-9vwgcCLihH', 'format': 'mp4', 'quality': 'best', 'cookie': '_zm_mtk_guid=9a5c77348d0b4b7bbfc38d2356b43f9d; _zm_visitor_guid=0d5f21491c55459493adc814cf0915ca; OptanonAlertBoxClosed=2025-04-25T08:06:01.193Z; _zm_login_acctype=6; _zm_lang=jp-JP; wULrMv6t=BfpbsXGWAQAAuacMLv1dsN2mJfVq6Y0acf3MLNmuuuD0KecBrEg27yA0Mt08JK5yiFLAf14I5--iwl4IJAAkEAmgFQApD78L2F1sbw|1|0|1032e82934d1a6aef64becd66236263a9d6c45db; OnetrustActiveGroups=C0003C0001; OnetrustActiveGroups=C0003C0001; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1; ktlvDW7IG5ClOcxYTbmY=a; _zm_svn=sophia-ac-jp; _zm_fingerprint=18c1710414774c7ba4ebea358982a3df; _zm_ssid=us06_c_4N1fO2haRRa81F7CoWxGTg; _zm_ctaid=eGdINFJyQyWaFeQHg-DCZw.1761991203279.0c8cd2308e3b3a22857302940e7a9564; _zm_chtaid=856; _zm_csp_script_nonce=HwzDxgE6RpCCIqtHH6KaCw; _zm_currency=JPY; _zm_page_auth=us06_c_kq_KxZHlQLi4bPkWdsnG8g; _zm_cdn_blocked=unlog_unblk; __cf_bm=assF6mfw5NtUy0TA55wA.hBmMTzf7ebJVzTzDvs4ixA-1761993271-1.0.1.1-rVMFT0Yib6WMRRb7k_Ms7JZDqzPggcMV.djXqKV8vwl7O6LY9LyJTh_uYBe.ZUF.m5CWnuBUSPO5vsoFAuHHLqSq5d_byQNQ3j0T30xtUE4; OptanonAlertBoxClosed=Sat, 01 Nov 2025 10:34:37 GMT; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1&hosts=&datestamp=Sat+Nov+01+2025+19%3A34%3A37+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=6.21.0; cred=F3BA8FC4416430CC400BDC881ED525A2; cdn_detect_result=1', 'referer': 'https://us06web.zoom.us/rec/play/yybESl3qmoNmXYtkncTgvLtVqVjtIE-a9p4erETCjeMUtfQPwshfUGIT07o_BqlAt6lrVEYRxjxIDOX8.igswDMW0rnPpX6rP?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fzs7mM2nT77dcld00oRa8R8lt2m_wjl0BGv5vu4tKvYpr44XDLQjz2XBkMbfkcAmd.hBI4e-9vwgcCLihH', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36'}
+Input URL: https://us06web.zoom.us/rec/play/yybESl3qmoNmXYtkncTgvLtVqVjtIE-a9p4erETCjeMUtfQPwshfUGIT07o_BqlAt6lrVEYRxjxIDOX8.igswDMW0rnPpX6rP?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fzs7mM2nT77dcld00oRa8R8lt2m_wjl0BGv5vu4tKvYpr44XDLQjz2XBkMbfkcAmd.hBI4e-9vwgcCLihH
+Cookie: _zm_mtk_guid=9a5c77348d0b4b7bbfc38d2356b43f9d; _zm_visitor_guid=0d5f21491c55459493adc814cf0915ca; OptanonAlertBoxClosed=2025-04-25T08:06:01.193Z; _zm_login_acctype=6; _zm_lang=jp-JP; wULrMv6t=BfpbsXGWAQAAuacMLv1dsN2mJfVq6Y0acf3MLNmuuuD0KecBrEg27yA0Mt08JK5yiFLAf14I5--iwl4IJAAkEAmgFQApD78L2F1sbw|1|0|1032e82934d1a6aef64becd66236263a9d6c45db; OnetrustActiveGroups=C0003C0001; OnetrustActiveGroups=C0003C0001; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1; ktlvDW7IG5ClOcxYTbmY=a; _zm_svn=sophia-ac-jp; _zm_fingerprint=18c1710414774c7ba4ebea358982a3df; _zm_ssid=us06_c_4N1fO2haRRa81F7CoWxGTg; _zm_ctaid=eGdINFJyQyWaFeQHg-DCZw.1761991203279.0c8cd2308e3b3a22857302940e7a9564; _zm_chtaid=856; _zm_csp_script_nonce=HwzDxgE6RpCCIqtHH6KaCw; _zm_currency=JPY; _zm_page_auth=us06_c_kq_KxZHlQLi4bPkWdsnG8g; _zm_cdn_blocked=unlog_unblk; __cf_bm=assF6mfw5NtUy0TA55wA.hBmMTzf7ebJVzTzDvs4ixA-1761993271-1.0.1.1-rVMFT0Yib6WMRRb7k_Ms7JZDqzPggcMV.djXqKV8vwl7O6LY9LyJTh_uYBe.ZUF.m5CWnuBUSPO5vsoFAuHHLqSq5d_byQNQ3j0T30xtUE4; OptanonAlertBoxClosed=Sat, 01 Nov 2025 10:34:37 GMT; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1&hosts=&datestamp=Sat+Nov+01+2025+19%3A34%3A37+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=6.21.0; cred=F3BA8FC4416430CC400BDC881ED525A2; cdn_detect_result=1
+Referer: https://us06web.zoom.us/rec/play/yybESl3qmoNmXYtkncTgvLtVqVjtIE-a9p4erETCjeMUtfQPwshfUGIT07o_BqlAt6lrVEYRxjxIDOX8.igswDMW0rnPpX6rP?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fzs7mM2nT77dcld00oRa8R8lt2m_wjl0BGv5vu4tKvYpr44XDLQjz2XBkMbfkcAmd.hBI4e-9vwgcCLihH
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Added Cookie header: _zm_mtk_guid=9a5c77348d0b4b7bbfc38d2356b43f9d; _zm_visitor_guid=0d5f21491c55459493adc814cf0915ca; OptanonAlertBoxClosed=2025-04-25T08:06:01.193Z; _zm_login_acctype=6; _zm_lang=jp-JP; wULrMv6t=BfpbsXGWAQAAuacMLv1dsN2mJfVq6Y0acf3MLNmuuuD0KecBrEg27yA0Mt08JK5yiFLAf14I5--iwl4IJAAkEAmgFQApD78L2F1sbw|1|0|1032e82934d1a6aef64becd66236263a9d6c45db; OnetrustActiveGroups=C0003C0001; OnetrustActiveGroups=C0003C0001; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1; ktlvDW7IG5ClOcxYTbmY=a; _zm_svn=sophia-ac-jp; _zm_fingerprint=18c1710414774c7ba4ebea358982a3df; _zm_ssid=us06_c_4N1fO2haRRa81F7CoWxGTg; _zm_ctaid=eGdINFJyQyWaFeQHg-DCZw.1761991203279.0c8cd2308e3b3a22857302940e7a9564; _zm_chtaid=856; _zm_csp_script_nonce=HwzDxgE6RpCCIqtHH6KaCw; _zm_currency=JPY; _zm_page_auth=us06_c_kq_KxZHlQLi4bPkWdsnG8g; _zm_cdn_blocked=unlog_unblk; __cf_bm=assF6mfw5NtUy0TA55wA.hBmMTzf7ebJVzTzDvs4ixA-1761993271-1.0.1.1-rVMFT0Yib6WMRRb7k_Ms7JZDqzPggcMV.djXqKV8vwl7O6LY9LyJTh_uYBe.ZUF.m5CWnuBUSPO5vsoFAuHHLqSq5d_byQNQ3j0T30xtUE4; OptanonAlertBoxClosed=Sat, 01 Nov 2025 10:34:37 GMT; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1&hosts=&datestamp=Sat+Nov+01+2025+19%3A34%3A37+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=6.21.0; cred=F3BA8FC4416430CC400BDC881ED525A2; cdn_detect_result=1
+Added Referer header: https://us06web.zoom.us/rec/play/yybESl3qmoNmXYtkncTgvLtVqVjtIE-a9p4erETCjeMUtfQPwshfUGIT07o_BqlAt6lrVEYRxjxIDOX8.igswDMW0rnPpX6rP?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fzs7mM2nT77dcld00oRa8R8lt2m_wjl0BGv5vu4tKvYpr44XDLQjz2XBkMbfkcAmd.hBI4e-9vwgcCLihH
+Added User-Agent header: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Final yt-dlp command: /opt/homebrew/bin/yt-dlp -f bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best --merge-output-format mp4 -o /Users/ts/Downloads/ytdl-extension/%(title)s.%(ext)s https://us06web.zoom.us/rec/play/yybESl3qmoNmXYtkncTgvLtVqVjtIE-a9p4erETCjeMUtfQPwshfUGIT07o_BqlAt6lrVEYRxjxIDOX8.igswDMW0rnPpX6rP?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fzs7mM2nT77dcld00oRa8R8lt2m_wjl0BGv5vu4tKvYpr44XDLQjz2XBkMbfkcAmd.hBI4e-9vwgcCLihH --add-header Cookie: _zm_mtk_guid=9a5c77348d0b4b7bbfc38d2356b43f9d; _zm_visitor_guid=0d5f21491c55459493adc814cf0915ca; OptanonAlertBoxClosed=2025-04-25T08:06:01.193Z; _zm_login_acctype=6; _zm_lang=jp-JP; wULrMv6t=BfpbsXGWAQAAuacMLv1dsN2mJfVq6Y0acf3MLNmuuuD0KecBrEg27yA0Mt08JK5yiFLAf14I5--iwl4IJAAkEAmgFQApD78L2F1sbw|1|0|1032e82934d1a6aef64becd66236263a9d6c45db; OnetrustActiveGroups=C0003C0001; OnetrustActiveGroups=C0003C0001; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1; ktlvDW7IG5ClOcxYTbmY=a; _zm_svn=sophia-ac-jp; _zm_fingerprint=18c1710414774c7ba4ebea358982a3df; _zm_ssid=us06_c_4N1fO2haRRa81F7CoWxGTg; _zm_ctaid=eGdINFJyQyWaFeQHg-DCZw.1761991203279.0c8cd2308e3b3a22857302940e7a9564; _zm_chtaid=856; _zm_csp_script_nonce=HwzDxgE6RpCCIqtHH6KaCw; _zm_currency=JPY; _zm_page_auth=us06_c_kq_KxZHlQLi4bPkWdsnG8g; _zm_cdn_blocked=unlog_unblk; __cf_bm=assF6mfw5NtUy0TA55wA.hBmMTzf7ebJVzTzDvs4ixA-1761993271-1.0.1.1-rVMFT0Yib6WMRRb7k_Ms7JZDqzPggcMV.djXqKV8vwl7O6LY9LyJTh_uYBe.ZUF.m5CWnuBUSPO5vsoFAuHHLqSq5d_byQNQ3j0T30xtUE4; OptanonAlertBoxClosed=Sat, 01 Nov 2025 10:34:37 GMT; OptanonConsent=groups=C0004%3A0%2CC0003%3A1%2CC0002%3A0%2CC0001%3A1&hosts=&datestamp=Sat+Nov+01+2025+19%3A34%3A37+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=6.21.0; cred=F3BA8FC4416430CC400BDC881ED525A2; cdn_detect_result=1 --add-header Referer: https://us06web.zoom.us/rec/play/yybESl3qmoNmXYtkncTgvLtVqVjtIE-a9p4erETCjeMUtfQPwshfUGIT07o_BqlAt6lrVEYRxjxIDOX8.igswDMW0rnPpX6rP?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fzs7mM2nT77dcld00oRa8R8lt2m_wjl0BGv5vu4tKvYpr44XDLQjz2XBkMbfkcAmd.hBI4e-9vwgcCLihH --add-header User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Return code: 0
+Stdout: [zoom] Extracting URL: https://us06web.zoom.us/rec/play/yybESl3qmoNmXYtkncTgvLtVqVjtIE-a9p4erETCjeMUtfQPwshfUGIT07o_BqlA...Amd.hBI4e-9vwgcCLihH
+[zoom] yybESl3qmoNmXYtkncTgvLtVqVjtIE-a9p4erETCjeMUtfQPwshfUGIT07o_BqlAt6lrVEYRxjxIDOX8.igswDMW0rnPpX6rP: Downloading play webpage
+[zoom] yybESl3qmoNmXYtkncTgvLtVqVjtIE-a9p4erETCjeMUtfQPwshfUGIT07o_BqlAt6lrVEYRxjxIDOX8.igswDMW0rnPpX6rP: Downloading play info JSON
+[info] yybESl3qmoNmXYtkncTgvLtVqVjtIE-a9p4erETCjeMUtfQPwshfUGIT07o_BqlAt6lrVEYRxjxIDOX8.igswDMW0rnPpX6rP: Downloading 1 format(s): view
+[download] Destination: /Users/ts/Downloads/ytdl-extension/深層学習 ⧸ Deep Learning基礎講座 2025 Autumn.mp4
+
+[download]   0.0% of  230.88MiB at  Unknown B/s ETA Unknown
+[download]   0.0% of  230.88MiB at  Unknown B/s ETA Unknown
+[download]   0.0% of  230.88MiB at  Unknown B/s ETA Unknown
+[download]   0.0% of  230.88MiB at  Unknown B/s ETA Unknown
+[download]   0.0% of  230.88MiB at   19.13MiB/s ETA 00:12  
+[download]   0.0% of  230.88MiB at    5.69MiB/s ETA 00:40
+[download]   0.1% of  230.88MiB at    5.91MiB/s ETA 00:39
+[download]   0.1% of  230.88MiB at    8.21MiB/s ETA 00:28
+[download]   0.2% of  230.88MiB at   12.47MiB/s ETA 00:18
+[download]   0.4% of  230.88MiB at   19.91MiB/s ETA 00:11
+[download]   0.9% of  230.88MiB at   28.92MiB/s ETA 00:07
+[download]   1.7% of  230.88MiB at   37.10MiB/s ETA 00:06
+[download]   3.5% of  230.88MiB at   59.50MiB/s ETA 00:03
+[download]   5.2% of  230.88MiB at   67.50MiB/s ETA 00:03
+[download]   6.9% of  230.88MiB at   75.27MiB/s ETA 00:02
+[download]   8.7% of  230.88MiB at   73.27MiB/s ETA 00:02
+[download]  10.4% of  230.88MiB at   77.86MiB/s ETA 00:02
+[download]  12.1% of  230.88MiB at   79.54MiB/s ETA 00:02
+[download]  13.9% of  230.88MiB at   84.07MiB/s ETA 00:02
+[download]  15.6% of  230.88MiB at   81.15MiB/s ETA 00:02
+[download]  17.3% of  230.88MiB at   85.60MiB/s ETA 00:02
+[download]  19.1% of  230.88MiB at   83.33MiB/s ETA 00:02
+[download]  20.8% of  230.88MiB at   85.10MiB/s ETA 00:02
+[download]  22.5% of  230.88MiB at   82.28MiB/s ETA 00:02
+[download]  24.3% of  230.88MiB at   80.30MiB/s ETA 00:02
+[download]  26.0% of  230.88MiB at   80.57MiB/s ETA 00:02
+[download]  27.7% of  230.88MiB at   80.84MiB/s ETA 00:02
+[download]  29.5% of  230.88MiB at   79.36MiB/s ETA 00:02
+[download]  31.2% of  230.88MiB at   80.38MiB/s ETA 00:01
+[download]  32.9% of  230.88MiB at   77.61MiB/s ETA 00:01
+[download]  34.6% of  230.88MiB at   79.49MiB/s ETA 00:01
+[download]  36.4% of  230.88MiB at   78.79MiB/s ETA 00:01
+[download]  38.1% of  230.88MiB at   78.56MiB/s ETA 00:01
+[download]  39.8% of  230.88MiB at   77.95MiB/s ETA 00:01
+[download]  41.6% of  230.88MiB at   77.76MiB/s ETA 00:01
+[download]  43.3% of  230.88MiB at   77.20MiB/s ETA 00:01
+[download]  45.0% of  230.88MiB at   77.13MiB/s ETA 00:01
+[download]  46.8% of  230.88MiB at   76.45MiB/s ETA 00:01
+[download]  48.5% of  230.88MiB at   76.32MiB/s ETA 00:01
+[download]  50.2% of  230.88MiB at   76.48MiB/s ETA 00:01
+[download]  52.0% of  230.88MiB at   77.50MiB/s ETA 00:01
+[download]  53.7% of  230.88MiB at   76.29MiB/s ETA 00:01
+[download]  55.4% of  230.88MiB at   76.63MiB/s ETA 00:01
+[download]  57.2% of  230.88MiB at   76.91MiB/s ETA 00:01
+[download]  58.9% of  230.88MiB at   76.51MiB/s ETA 00:01
+[download]  60.6% of  230.88MiB at   75.90MiB/s ETA 00:01
+[download]  62.4% of  230.88MiB at   75.21MiB/s ETA 00:01
+[download]  64.1% of  230.88MiB at   75.24MiB/s ETA 00:01
+[download]  65.8% of  230.88MiB at   75.81MiB/s ETA 00:01
+[download]  67.6% of  230.88MiB at   75.83MiB/s ETA 00:00
+[download]  69.3% of  230.88MiB at   75.72MiB/s ETA 00:00
+[download]  71.0% of  230.88MiB at   75.40MiB/s ETA 00:00
+[download]  72.8% of  230.88MiB at   75.28MiB/s ETA 00:00
+[download]  74.5% of  230.88MiB at   75.00MiB/s ETA 00:00
+[download]  76.2% of  230.88MiB at   74.90MiB/s ETA 00:00
+[download]  78.0% of  230.88MiB at   74.64MiB/s ETA 00:00
+[download]  79.7% of  230.88MiB at   74.56MiB/s ETA 00:00
+[download]  81.4% of  230.88MiB at   74.31MiB/s ETA 00:00
+[download]  83.2% of  230.88MiB at   74.24MiB/s ETA 00:00
+[download]  84.9% of  230.88MiB at   74.02MiB/s ETA 00:00
+[download]  86.6% of  230.88MiB at   74.08MiB/s ETA 00:00
+[download]  88.4% of  230.88MiB at   74.16MiB/s ETA 00:00
+[download]  90.1% of  230.88MiB at   74.52MiB/s ETA 00:00
+[download]  91.8% of  230.88MiB at   74.63MiB/s ETA 00:00
+[download]  93.6% of  230.88MiB at   75.25MiB/s ETA 00:00
+[download]  95.3% of  230.88MiB at   75.30MiB/s ETA 00:00
+[download]  97.0% of  230.88MiB at   75.41MiB/s ETA 00:00
+[download]  98.8% of  230.88MiB at   76.22MiB/s ETA 00:00
+[download] 100.0% of  230.88MiB at   76.03MiB/s ETA 00:00
+[download] 100% of  230.88MiB in 00:00:03 at 69.31MiB/s  
+
+Stderr: Deprecated Feature: Passing cookies as a header is a potential security risk; they will be scoped to the domain of the downloaded urls. Please consider loading cookies from a file or browser instead.
+
