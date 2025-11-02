@@ -53,13 +53,15 @@ def send_message(message):
 
 
 def log(message):
-    log_file = os.path.expanduser(settings.get(
-        'debug_log', '~/Documents/work/ytdl-extension/debug.log'))
-    try:
-        with open(log_file, 'a') as f:
-            f.write(str(message) + '\n')
-    except Exception:
-        pass
+    # ログ不要の場合は下記2行をコメントアウト！
+    # log_file = os.path.expanduser(settings.get(
+    #     'debug_log', '~/Documents/work/ytdl-extension/debug.log'))
+    # try:
+    #     with open(log_file, 'a') as f:
+    #         f.write(str(message) + '\n')
+    # except Exception:
+    #     pass
+    pass
 
 
 def is_only_warning_and_info_lines(lines):
