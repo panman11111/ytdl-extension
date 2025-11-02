@@ -1,20 +1,21 @@
 {
     "manifest_version": 3,
-    "name": "YouTube Downloader",
+    "name": "Video Downloader",
     "version": "1.0",
-    "description": "YouTube動画を最高画質でダウンロード",
     "permissions": [
         "nativeMessaging",
         "activeTab",
         "cookies"
     ],
     "host_permissions": [
-        "*://*.youtube.com/*",
-        "*://*.zoom.us/*"
+        "*://*/*"
     ],
+    "background": {
+        "service_worker": "background.js"
+    },
     "action": {
         "default_popup": "popup.html",
-        "default_title": "YouTube Downloader"
+        "default_title": "Video Downloader"
     },
     "icons": {
         "48": "icon.png",

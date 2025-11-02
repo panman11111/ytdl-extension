@@ -1,0 +1,9 @@
+{
+    "ytdl_path": "/opt/homebrew/bin/yt-dlp",
+    "ffmpeg_path": "/opt/homebrew/bin/ffmpeg",
+    "download_dir": "~/Downloads/ytdl-extension",
+    "env_path": "/usr/local/bin:/opt/homebrew/bin",
+    "debug_log": "~/Documents/work/ytdl-extension/debug.log",
+    "default_format": "mp4",
+    "default_quality": "best"
+}

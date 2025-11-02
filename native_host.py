@@ -6,7 +6,33 @@ import struct
 import subprocess
 import os
 
-os.environ["PATH"] = "/usr/local/bin:/opt/homebrew/bin:" + os.environ["PATH"]
+# settings.jsonを先頭で読み込み
+
+
+def load_settings():
+    config_path = os.path.expanduser(
+        "~/Documents/work/ytdl-extension/settings.json")
+    try:
+        with open(config_path, "r") as f:
+            return json.load(f)
+    except Exception as e:
+        # 設定読み取り失敗時はデフォルト値
+        return {
+            "ytdl_path": "/opt/homebrew/bin/yt-dlp",
+            "ffmpeg_path": "/opt/homebrew/bin/ffmpeg",
+            "download_dir": "~/Downloads/ytdl-extension",
+            "env_path": "/usr/local/bin:/opt/homebrew/bin",
+            "debug_log": "~/Documents/work/ytdl-extension/debug.log",
+            "default_format": "mp4",
+            "default_quality": "best"
+        }
+
+
+settings = load_settings()
+
+# PATH等を上書き
+os.environ["PATH"] = settings.get(
+    "env_path", "") + ":" + os.environ.get("PATH", "")
 
 
 def get_message():
@@ -27,9 +53,13 @@ def send_message(message):
 
 
 def log(message):
-    log_file = '/Users/ts/Documents/work/ytdl-extension/debug.log'
-    with open(log_file, 'a') as f:
-        f.write(str(message) + '\n')
+    log_file = os.path.expanduser(settings.get(
+        'debug_log', '~/Documents/work/ytdl-extension/debug.log'))
+    try:
+        with open(log_file, 'a') as f:
+            f.write(str(message) + '\n')
+    except Exception:
+        pass
 
 
 def is_only_warning_and_info_lines(lines):
@@ -37,7 +67,7 @@ def is_only_warning_and_info_lines(lines):
         l = line.lower().strip()
         if (not l or
             l.startswith("warning") or
-            l.startswith("deprecated feature") or  # ←ここを追加
+            l.startswith("deprecated feature") or
             l.startswith("player =") or
             l.startswith("n =") or
             "please report" in l or
@@ -68,13 +98,15 @@ try:
 
     send_message({'status': 'downloading', 'message': 'yt-dlpを起動中...'})
 
-    download_dir = os.path.expanduser('~/Downloads/ytdl-extension')
-    ytdl_path = '/opt/homebrew/bin/yt-dlp'
+    download_dir = os.path.expanduser(settings.get(
+        'download_dir', '~/Downloads/ytdl-extension'))
+    ytdl_path = settings.get('ytdl_path', '/opt/homebrew/bin/yt-dlp')
+    # ffmpeg_path/その他も上記の通り必要に応じて利用
 
     command = [
         ytdl_path,
         '-f', 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best',
-        '--merge-output-format', 'mp4',
+        '--merge-output-format', settings.get('default_format', 'mp4'),
         '-o', f'{download_dir}/%(title)s.%(ext)s',
         url
     ]
