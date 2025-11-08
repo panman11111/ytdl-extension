@@ -5,7 +5,8 @@
     "permissions": [
         "nativeMessaging",
         "activeTab",
-        "cookies"
+        "cookies",
+        "scripting"
     ],
     "host_permissions": [
         "*://*/*"
